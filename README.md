@@ -1,0 +1,2 @@
+# Simplifying-ESG-evaluation-for-Small-and-Medium-Enterprises
+This Research Paper is about the ESG(Environmental, source and governance) methods that are going to be simplifying for the small and medium Enterprises. The gap that is occurring majorly due to the methods that has been used only for the big MNCs. The proportion of inequality is there, that from this research paper is actually going to solve.
