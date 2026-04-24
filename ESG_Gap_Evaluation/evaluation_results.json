@@ -1,0 +1,76 @@
+{
+  "benchmark": 1052.0,
+  "classification_threshold": 1052.0,
+  "classification_diagnostics": {
+    "test_roc_auc": 0.9992345962495217,
+    "test_average_precision_safe": 0.9991184717084743,
+    "test_matthews_corrcoef": 0.9447564385250177,
+    "test_balanced_accuracy": 0.9712016838882511,
+    "test_accuracy": 0.9724137931034482,
+    "test_precision_safe": 0.9846153846153847,
+    "test_recall_safe": 0.9552238805970149,
+    "test_f1_safe": 0.9696969696969697,
+    "classification_report_test": "              precision    recall  f1-score   support\n\n        Risk       0.96      0.99      0.97        78\n        Safe       0.98      0.96      0.97        67\n\n    accuracy                           0.97       145\n   macro avg       0.97      0.97      0.97       145\nweighted avg       0.97      0.97      0.97       145\n"
+  },
+  "stratified_kfold_cv": {
+    "cv_accuracy_mean": 0.9902969348659004,
+    "cv_f1_macro_mean": 0.9902941931073155,
+    "cv_roc_auc_mean": 0.9994608442129183,
+    "cv_balanced_accuracy_mean": 0.9902761699573391,
+    "cv_accuracy_std": 0.005565175315230438,
+    "cv_f1_macro_std": 0.005568329349919977,
+    "cv_roc_auc_std": 0.0006390024948938157,
+    "cv_balanced_accuracy_std": 0.005605451485552103
+  },
+  "pca": {
+    "pca_explained_variance_ratio_pc1": 0.7153858017494101,
+    "pca_explained_variance_ratio_pc2": 0.17858607962727766
+  },
+  "clustering": {
+    "kmeans_silhouette_by_k": {
+      "2": 0.511570986238547,
+      "3": 0.45842479751275783,
+      "4": 0.4915384706116193,
+      "5": 0.48091006332805025,
+      "6": 0.47586192958834844,
+      "7": 0.4870964724826693,
+      "8": 0.46686540363317586
+    },
+    "kmeans_best_k": 2
+  },
+  "pillars_tests": {
+    "pillars_safe_vs_risk_welch_ttest": {
+      "environment_score": {
+        "mean_safe": 531.9887955182073,
+        "mean_risk": 280.4109589041096,
+        "welch_t_stat": 47.04946027822101,
+        "p_value_two_sided": 9.645722132570604e-200
+      },
+      "social_score": {
+        "mean_safe": 327.0,
+        "mean_risk": 258.1287671232877,
+        "welch_t_stat": 20.39236470678475,
+        "p_value_two_sided": 5.5018298712066113e-73
+      },
+      "governance_score": {
+        "mean_safe": 306.76190476190476,
+        "mean_risk": 251.37534246575342,
+        "welch_t_stat": 19.667879292296195,
+        "p_value_two_sided": 7.264829319580254e-67
+      }
+    }
+  },
+  "industry_tests": {
+    "kruskal_wallis_top5_industries_total_score": {
+      "H_statistic": 20.61084590628017,
+      "p_value": 0.0003781799432836819,
+      "industries": [
+        "Technology",
+        "Biotechnology",
+        "Health Care",
+        "Real Estate",
+        "Financial Services"
+      ]
+    }
+  }
+}

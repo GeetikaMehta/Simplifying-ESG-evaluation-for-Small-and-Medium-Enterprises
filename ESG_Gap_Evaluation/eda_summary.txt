@@ -1,0 +1,16 @@
+ESG Exploratory Data Analysis — summary
+==================================================
+Rows: 722
+Missing per column: {'environment_score': 0, 'social_score': 0, 'governance_score': 0, 'total_score': 0}
+
+Correlation (Pearson) between ESG columns:
+  environment_score: {'environment_score': 1.0, 'social_score': 0.6718, 'governance_score': 0.5587, 'total_score': 0.9586}
+  social_score: {'environment_score': 0.6718, 'social_score': 1.0, 'governance_score': 0.4834, 'total_score': 0.8102}
+  governance_score: {'environment_score': 0.5587, 'social_score': 0.4834, 'governance_score': 1.0, 'total_score': 0.7116}
+  total_score: {'environment_score': 0.9586, 'social_score': 0.8102, 'governance_score': 0.7116, 'total_score': 1.0}
+
+Total score IQR outlier bounds: {'low': 191.5, 'high': 1715.5}
+Count of outliers (IQR rule): 0
+Distinct industries: 47
+
+Note: This dataset lists public companies; use the same EDA workflow for SME samples when available.

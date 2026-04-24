@@ -1,0 +1,20 @@
+{
+  "n_samples": 722,
+  "n_train": 577,
+  "n_test": 145,
+  "benchmark_method": "median",
+  "benchmark_value": 1052.0,
+  "classification_threshold": 1052.0,
+  "threshold_mode": "benchmark",
+  "test_accuracy": 0.9724137931034482,
+  "test_precision_safe": 0.9846153846153847,
+  "test_recall_safe": 0.9552238805970149,
+  "test_f1_safe": 0.9696969696969697,
+  "test_f1_macro": 0.9721902570003835,
+  "feature_importances": {
+    "environment_score": 0.5346092148566028,
+    "social_score": 0.2517863719634573,
+    "governance_score": 0.2136044131799399
+  },
+  "classification_report_test": "              precision    recall  f1-score   support\n\n        Risk       0.96      0.99      0.97        78\n        Safe       0.98      0.96      0.97        67\n\n    accuracy                           0.97       145\n   macro avg       0.97      0.97      0.97       145\nweighted avg       0.97      0.97      0.97       145\n"
+}

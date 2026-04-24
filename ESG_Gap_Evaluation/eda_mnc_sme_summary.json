@@ -1,0 +1,19 @@
+{
+  "method_note": "Default segments use NYSE vs non-NYSE as a listing-size proxy, not true revenue-based SME/MNC. Provide --segments CSV with ticker + segment (MNC/SME) for your own split.",
+  "segments_file_used": null,
+  "group_counts": {
+    "Large / MNC (proxy)": 377,
+    "Small / other (proxy)": 345
+  },
+  "tests_on_esg_gap": {
+    "n_mnc_proxy": 377,
+    "n_sme_proxy": 345,
+    "gap_mean_mnc_proxy": -14.806366047745358,
+    "gap_mean_sme_proxy": -143.3913043478261,
+    "gap_median_mnc_proxy": 49.0,
+    "gap_median_sme_proxy": -161.0,
+    "mannwhitney_gap_U": 87136.5,
+    "mannwhitney_gap_pvalue": 2.874220762309019e-15,
+    "welch_ttest_gap_pvalue": 8.064217464512511e-16
+  }
+}

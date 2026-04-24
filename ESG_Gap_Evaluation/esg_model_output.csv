@@ -1,0 +1,723 @@
+ticker,name,environment_score,social_score,governance_score,esg_score,benchmark,esg_gap,true_label,predicted_label,p_safe
+dis,Walt Disney Co,510,316,321,1147,1052.0,95.0,Safe,Safe,1.0
+gm,General Motors Co,510,303,255,1068,1052.0,16.0,Safe,Safe,0.875
+gww,WW Grainger Inc,255,385,240,880,1052.0,-172.0,Risk,Risk,0.075
+mhk,Mohawk Industries Inc,570,298,303,1171,1052.0,119.0,Safe,Safe,0.975
+lyv,Live Nation Entertainment Inc,492,310,250,1052,1052.0,0.0,Safe,Safe,0.975
+lvs,Las Vegas Sands Corp,547,318,313,1178,1052.0,126.0,Safe,Safe,1.0
+clx,Clorox Co,560,350,345,1255,1052.0,203.0,Safe,Safe,0.995
+aacg,ATA Creativity Global,203,200,205,608,1052.0,-444.0,Risk,Risk,0.0
+aal,American Airlines Group Inc,270,211,265,746,1052.0,-306.0,Risk,Risk,0.0
+aame,Atlantic American Corp,220,221,300,741,1052.0,-311.0,Risk,Risk,0.0
+aaoi,Applied Optoelectronics Inc,311,256,218,785,1052.0,-267.0,Risk,Risk,0.0
+aaon,Aaon Inc,500,300,223,1023,1052.0,-29.0,Risk,Risk,0.03
+aapl,Apple Inc,355,281,255,891,1052.0,-161.0,Risk,Risk,0.0
+aatc,Autoscope Technologies Corp,410,286,240,936,1052.0,-116.0,Risk,Risk,0.005
+aaww,Atlas Air Worldwide Holdings Inc,520,243,237,1000,1052.0,-52.0,Risk,Risk,0.045
+aaci,Armada Acquisition Corp I,205,200,200,605,1052.0,-447.0,Risk,Risk,0.0
+aadi,Aadi Bioscience Inc,200,201,203,604,1052.0,-448.0,Risk,Risk,0.0
+abeo,Abeona Therapeutics Inc,205,306,310,821,1052.0,-231.0,Risk,Risk,0.0
+abnb,Airbnb Inc,505,570,400,1475,1052.0,423.0,Safe,Safe,0.995
+abio,ARCA Biopharma Inc,200,222,290,712,1052.0,-340.0,Risk,Risk,0.0
+abmd,ABIOMED Inc,500,324,305,1129,1052.0,77.0,Safe,Safe,0.995
+abos,Acumen Pharmaceuticals Inc,205,201,200,606,1052.0,-446.0,Risk,Risk,0.0
+absi,Absci Corp,205,224,230,659,1052.0,-393.0,Risk,Risk,0.0
+abtx,Allegiance Bancshares Inc,298,300,300,898,1052.0,-154.0,Risk,Risk,0.005
+abus,Arbutus Biopharma Corp,203,204,338,745,1052.0,-307.0,Risk,Risk,0.01
+abvc,ABVC Biopharma Inc,220,212,205,637,1052.0,-415.0,Risk,Risk,0.0
+acad,ACADIA Pharmaceuticals Inc,230,230,305,765,1052.0,-287.0,Risk,Risk,0.0
+acac,Acri Capital Acquisition Corp,200,205,300,705,1052.0,-347.0,Risk,Risk,0.0
+accd,Accolade Inc,255,254,235,744,1052.0,-308.0,Risk,Risk,0.0
+acet,Adicet Bio Inc,215,211,305,731,1052.0,-321.0,Risk,Risk,0.0
+abcl,Abcellera Biologics Inc,540,354,345,1239,1052.0,187.0,Safe,Safe,1.0
+abcb,Ameris Bancorp,290,300,250,840,1052.0,-212.0,Risk,Risk,0.01
+acev,ACE Convergence Acquisition Corp,225,211,215,651,1052.0,-401.0,Risk,Risk,0.0
+achl,Achilles Therapeutics PLC,230,288,285,803,1052.0,-249.0,Risk,Risk,0.03
+achc,Acadia Healthcare Company Inc,330,231,220,781,1052.0,-271.0,Risk,Risk,0.0
+aciw,ACI Worldwide Inc,500,327,300,1127,1052.0,75.0,Safe,Safe,1.0
+acls,Axcelis Technologies Inc,515,306,260,1081,1052.0,29.0,Safe,Safe,0.98
+aciu,AC Immune SA,250,296,305,851,1052.0,-201.0,Risk,Risk,0.005
+achv,Achieve Life Sciences Inc,215,222,305,742,1052.0,-310.0,Risk,Risk,0.0
+acmr,ACM Research Inc,410,232,325,967,1052.0,-85.0,Risk,Risk,0.03
+acor,Acorda Therapeutics Inc,230,307,310,847,1052.0,-205.0,Risk,Risk,0.0
+acnb,ACNB Corp,220,219,215,654,1052.0,-398.0,Risk,Risk,0.0
+acrs,Aclaris Therapeutics Inc,230,207,220,657,1052.0,-395.0,Risk,Risk,0.0
+acrx,AcelRx Pharmaceuticals Inc,200,237,300,737,1052.0,-315.0,Risk,Risk,0.0
+act,Enact Holdings Inc,540,328,315,1183,1052.0,131.0,Safe,Safe,1.0
+actg,Acacia Research Corp,200,200,275,675,1052.0,-377.0,Risk,Risk,0.0
+acva,ACV Auctions Inc,235,262,315,812,1052.0,-240.0,Risk,Risk,0.005
+adag,Adagene Inc,295,301,305,901,1052.0,-151.0,Risk,Risk,0.0
+acxp,Acurx Pharmaceuticals Inc,235,301,305,841,1052.0,-211.0,Risk,Risk,0.0
+adbe,Adobe Inc,200,221,200,621,1052.0,-431.0,Risk,Risk,0.0
+adap,Adaptimmune Therapeutics PLC,365,283,305,953,1052.0,-99.0,Risk,Risk,0.015
+adma,ADMA Biologics Inc,240,264,320,824,1052.0,-228.0,Risk,Risk,0.015
+ades,Advanced Emissions Solutions Inc,205,201,300,706,1052.0,-346.0,Risk,Risk,0.0
+adi,Analog Devices Inc,350,318,300,968,1052.0,-84.0,Risk,Risk,0.01
+adil,Adial Pharmaceuticals Inc,200,203,300,703,1052.0,-349.0,Risk,Risk,0.0
+admp,Adamis Pharmaceuticals Corp,285,204,215,704,1052.0,-348.0,Risk,Risk,0.0
+acer,Acer Therapeutics Inc,223,291,310,824,1052.0,-228.0,Risk,Risk,0.005
+adoc,Edoc Acquisition Corp,215,301,300,816,1052.0,-236.0,Risk,Risk,0.005
+adus,Addus Homecare Corp,210,215,218,643,1052.0,-409.0,Risk,Risk,0.0
+acgl,Arch Capital Group Ltd,500,300,300,1100,1052.0,48.0,Safe,Safe,1.0
+adpt,Adaptive Biotechnologies Corp,260,348,260,868,1052.0,-184.0,Risk,Risk,0.03
+adsk,Autodesk Inc,555,304,310,1169,1052.0,117.0,Safe,Safe,1.0
+adp,Automatic Data Processing Inc,500,300,200,1000,1052.0,-52.0,Risk,Risk,0.0
+adtx,Aditxt Inc,210,224,305,739,1052.0,-313.0,Risk,Risk,0.0
+adv,Advantage Solutions Inc,515,269,328,1112,1052.0,60.0,Safe,Safe,0.925
+advm,Adverum Biotechnologies Inc,262,321,235,818,1052.0,-234.0,Risk,Risk,0.01
+aehr,Aehr Test Systems,290,262,300,852,1052.0,-200.0,Risk,Risk,0.0
+aehl,Antelope Enterprise Holdings Ltd,238,237,325,800,1052.0,-252.0,Risk,Risk,0.0
+aei,Alset Ehome International Inc,520,207,210,937,1052.0,-115.0,Risk,Risk,0.0
+aeis,Advanced Energy Industries Inc,500,300,300,1100,1052.0,48.0,Safe,Safe,1.0
+aep,American Electric Power Company Inc,500,300,300,1100,1052.0,48.0,Safe,Safe,1.0
+aemd,Aethlon Medical Inc,200,262,315,777,1052.0,-275.0,Risk,Risk,0.005
+aese,Allied Esports Entertainment Inc,200,200,200,600,1052.0,-452.0,Risk,Risk,0.0
+aeye,AudioEye Inc,235,301,308,844,1052.0,-208.0,Risk,Risk,0.01
+aeri,Aerie Pharmaceuticals Inc,500,264,310,1074,1052.0,22.0,Safe,Safe,0.875
+aey,ADDvantage Technologies Group Inc,235,234,300,769,1052.0,-283.0,Risk,Risk,0.0
+afaq,AF Acquisition Corp,200,200,200,600,1052.0,-452.0,Risk,Risk,0.0
+afmd,Affimed NV,368,304,310,982,1052.0,-70.0,Risk,Risk,0.015
+afcg,AFC Gamma Inc,255,204,226,685,1052.0,-367.0,Risk,Risk,0.0
+afbi,Affinity Bancshares Inc,200,207,200,607,1052.0,-445.0,Risk,Risk,0.0
+afrm,Affirm Holdings Inc,225,335,335,895,1052.0,-157.0,Risk,Risk,0.035
+afib,Acutus Medical Inc,205,211,235,651,1052.0,-401.0,Risk,Risk,0.0
+agen,Agenus Inc,290,245,300,835,1052.0,-217.0,Risk,Risk,0.0
+afya,Afya Ltd,290,203,205,698,1052.0,-354.0,Risk,Risk,0.0
+agfs,AgroFresh Solutions Inc,500,301,275,1076,1052.0,24.0,Safe,Safe,0.835
+agfy,Agrify Corp,540,361,305,1206,1052.0,154.0,Safe,Safe,1.0
+agil,AgileThought Inc,340,299,305,944,1052.0,-108.0,Risk,Risk,0.02
+agmh,AGM Group Holdings Inc,205,204,210,619,1052.0,-433.0,Risk,Risk,0.0
+agio,Agios Pharmaceuticals Inc,520,303,325,1148,1052.0,96.0,Safe,Safe,1.0
+agle,Aeglea Bio Therapeutics Inc,205,223,200,628,1052.0,-424.0,Risk,Risk,0.0
+agnc,AGNC Investment Corp,382,242,305,929,1052.0,-123.0,Risk,Risk,0.0
+agri,AgriFORCE Growing Systems Ltd,510,248,305,1063,1052.0,11.0,Safe,Safe,0.715
+agrx,Agile Therapeutics Inc,240,203,260,703,1052.0,-349.0,Risk,Risk,0.005
+agys,Agilysys Inc,500,303,300,1103,1052.0,51.0,Safe,Safe,1.0
+agtc,Applied Genetic Technologies Corp,235,323,305,863,1052.0,-189.0,Risk,Risk,0.015
+ahco,Adapthealth Corp,210,211,235,656,1052.0,-396.0,Risk,Risk,0.0
+ahpi,Allied Healthcare Products Inc,210,228,325,763,1052.0,-289.0,Risk,Risk,0.0
+aib,AIB Acquisition Corp,215,227,300,742,1052.0,-310.0,Risk,Risk,0.0
+adtn,ADTRAN Inc,510,308,300,1118,1052.0,66.0,Safe,Safe,1.0
+adn,Advent Technologies Holdings Inc,250,203,220,673,1052.0,-379.0,Risk,Risk,0.0
+aiki,Aikido Pharma Inc,200,235,205,640,1052.0,-412.0,Risk,Risk,0.0
+akic,Sports Ventures Acquisition Corp,200,205,230,635,1052.0,-417.0,Risk,Risk,0.0
+aip,Arteris Inc,500,286,300,1086,1052.0,34.0,Safe,Safe,0.88
+akro,Akero Therapeutics Inc,250,246,305,801,1052.0,-251.0,Risk,Risk,0.005
+airt,Air T Inc,234,210,325,769,1052.0,-283.0,Risk,Risk,0.0
+aimc,Altra Industrial Motion Corp,525,315,305,1145,1052.0,93.0,Safe,Safe,1.0
+akba,Akebia Therapeutics Inc,200,218,215,633,1052.0,-419.0,Risk,Risk,0.0
+airg,Airgain Inc,500,300,330,1130,1052.0,78.0,Safe,Safe,1.0
+airs,Airsculpt Technologies Inc,210,201,205,616,1052.0,-436.0,Risk,Risk,0.0
+akam,Akamai Technologies Inc,515,341,305,1161,1052.0,109.0,Safe,Safe,1.0
+aku,Akumin Inc,455,347,300,1102,1052.0,50.0,Safe,Safe,0.99
+akus,Akouos Inc,205,221,295,721,1052.0,-331.0,Risk,Risk,0.0
+akts,Akoustis Technologies Inc,222,302,428,952,1052.0,-100.0,Risk,Risk,0.07
+aktx,Akari Therapeutics PLC,225,216,305,746,1052.0,-306.0,Risk,Risk,0.0
+albo,Albireo Pharma Inc,500,300,310,1110,1052.0,58.0,Safe,Safe,1.0
+akya,Akoya Biosciences Inc,512,303,215,1030,1052.0,-22.0,Risk,Risk,0.12
+alco,Alico Inc,500,300,300,1100,1052.0,48.0,Safe,Safe,1.0
+aldx,Aldeyra Therapeutics Inc,231,261,235,727,1052.0,-325.0,Risk,Risk,0.0
+alec,Alector Inc,240,277,300,817,1052.0,-235.0,Risk,Risk,0.025
+algm,Allegro Microsystems Inc,542,314,250,1106,1052.0,54.0,Safe,Safe,1.0
+alf,Alfi Inc,225,260,315,800,1052.0,-252.0,Risk,Risk,0.005
+algn,Align Technology Inc,235,285,255,775,1052.0,-277.0,Risk,Risk,0.0
+algs,Aligos Therapeutics Inc,210,222,235,667,1052.0,-385.0,Risk,Risk,0.0
+alhc,Alignment Healthcare LLC,210,302,256,768,1052.0,-284.0,Risk,Risk,0.005
+alks,Alkermes Plc,415,302,333,1050,1052.0,-2.0,Risk,Risk,0.185
+alim,Alimera Sciences Inc,220,228,243,691,1052.0,-361.0,Risk,Risk,0.0
+algt,Allegiant Travel Co,287,208,248,743,1052.0,-309.0,Risk,Risk,0.0
+aih,Aesthetic Medical International Holdings Group Ltd,220,250,300,770,1052.0,-282.0,Risk,Risk,0.015
+alkt,Alkami Technology Inc,280,305,260,845,1052.0,-207.0,Risk,Risk,0.01
+alny,Alnylam Pharmaceuticals Inc,331,346,325,1002,1052.0,-50.0,Risk,Risk,0.015
+allt,Allot Ltd,508,324,310,1142,1052.0,90.0,Safe,Safe,1.0
+allo,Allogene Therapeutics Inc,535,324,305,1164,1052.0,112.0,Safe,Safe,0.995
+amat,Applied Materials Inc,525,317,300,1142,1052.0,90.0,Safe,Safe,0.995
+amd,Advanced Micro Devices Inc,200,208,200,608,1052.0,-444.0,Risk,Risk,0.0
+atvi,Activision Blizzard Inc,280,347,330,957,1052.0,-95.0,Risk,Risk,0.01
+avgo,Broadcom Inc,210,212,200,622,1052.0,-430.0,Risk,Risk,0.0
+anss,ANSYS Inc,580,337,285,1202,1052.0,150.0,Safe,Safe,0.945
+amzn,Amazon.com Inc,668,305,460,1433,1052.0,381.0,Safe,Safe,0.98
+aihs,Senmiao Technology Ltd,220,203,200,623,1052.0,-429.0,Risk,Risk,0.0
+apa,APA Corp (US),510,316,325,1151,1052.0,99.0,Safe,Safe,1.0
+biib,Biogen Inc,380,303,364,1047,1052.0,-5.0,Risk,Risk,0.05
+bkng,Booking Holdings Inc,558,306,310,1174,1052.0,122.0,Safe,Safe,0.995
+cdns,Cadence Design Systems Inc,500,308,295,1103,1052.0,51.0,Safe,Safe,0.94
+cdw,CDW Corp,225,209,200,634,1052.0,-418.0,Risk,Risk,0.0
+chrw,CH Robinson Worldwide Inc,575,330,338,1243,1052.0,191.0,Safe,Safe,1.0
+cinf,Cincinnati Financial Corp,235,275,250,760,1052.0,-292.0,Risk,Risk,0.0
+chtr,Charter Communications Inc,500,300,300,1100,1052.0,48.0,Safe,Safe,1.0
+cmcsa,Comcast Corp,507,343,315,1165,1052.0,113.0,Safe,Safe,1.0
+cprt,Copart Inc,270,204,205,679,1052.0,-373.0,Risk,Risk,0.0
+cost,Costco Wholesale Corp,537,306,225,1068,1052.0,16.0,Safe,Safe,0.815
+csx,CSX Corp,510,310,325,1145,1052.0,93.0,Safe,Safe,1.0
+ctsh,Cognizant Technology Solutions Corp,605,365,300,1270,1052.0,218.0,Safe,Safe,1.0
+cme,CME Group Inc,375,237,200,812,1052.0,-240.0,Risk,Risk,0.0
+csco,Cisco Systems Inc,280,234,220,734,1052.0,-318.0,Risk,Risk,0.0
+ctas,Cintas Corp,500,300,300,1100,1052.0,48.0,Safe,Safe,1.0
+ctxs,Citrix Systems Inc,530,305,305,1140,1052.0,88.0,Safe,Safe,0.995
+czr,Caesars Entertainment Inc,265,228,200,693,1052.0,-359.0,Risk,Risk,0.0
+dish,DISH Network Corp,210,263,205,678,1052.0,-374.0,Risk,Risk,0.0
+dltr,Dollar Tree Inc,235,208,215,658,1052.0,-394.0,Risk,Risk,0.0
+dxcm,Dexcom Inc,215,236,215,666,1052.0,-386.0,Risk,Risk,0.0
+ea,Electronic Arts Inc,360,300,225,885,1052.0,-167.0,Risk,Risk,0.0
+lnt,Alliant Energy Corp,519,307,300,1126,1052.0,74.0,Safe,Safe,1.0
+fang,Diamondback Energy Inc,513,271,300,1084,1052.0,32.0,Safe,Safe,0.925
+ebay,eBay Inc,500,302,305,1107,1052.0,55.0,Safe,Safe,0.99
+lkq,LKQ Corp,515,300,305,1120,1052.0,68.0,Safe,Safe,1.0
+googl,Alphabet Inc,295,362,355,1012,1052.0,-40.0,Risk,Risk,0.195
+mar,Marriott International Inc,215,200,215,630,1052.0,-422.0,Risk,Risk,0.0
+mchp,Microchip Technology Inc,500,300,300,1100,1052.0,48.0,Safe,Safe,1.0
+lrcx,Lam Research Corp,510,325,315,1150,1052.0,98.0,Safe,Safe,1.0
+mdlz,Mondelez International Inc,520,307,300,1127,1052.0,75.0,Safe,Safe,1.0
+meta,Meta Platforms Inc,205,232,215,652,1052.0,-400.0,Risk,Risk,0.0
+mktx,Marketaxess Holdings Inc,230,213,210,653,1052.0,-399.0,Risk,Risk,0.0
+mnst,Monster Beverage Corp,515,344,300,1159,1052.0,107.0,Safe,Safe,1.0
+mrna,Moderna Inc,500,300,300,1100,1052.0,48.0,Safe,Safe,1.0
+mtch,Match Group Inc,245,389,311,945,1052.0,-107.0,Risk,Risk,0.145
+mpwr,Monolithic Power Systems Inc,330,287,235,852,1052.0,-200.0,Risk,Risk,0.0
+msft,Microsoft Corp,715,443,375,1533,1052.0,481.0,Safe,Safe,1.0
+mu,Micron Technology Inc,530,330,300,1160,1052.0,108.0,Safe,Safe,0.995
+ndaq,Nasdaq Inc,505,310,300,1115,1052.0,63.0,Safe,Safe,1.0
+nlok,NortonLifeLock Inc,505,315,305,1125,1052.0,73.0,Safe,Safe,1.0
+ntrs,Northern Trust Corp,250,226,225,701,1052.0,-351.0,Risk,Risk,0.0
+nwl,Newell Brands Inc,525,303,315,1143,1052.0,91.0,Safe,Safe,1.0
+nvda,NVIDIA Corp,323,301,275,899,1052.0,-153.0,Risk,Risk,0.0
+allk,Allakos Inc,200,273,300,773,1052.0,-279.0,Risk,Risk,0.03
+nwsa,News Corp,509,300,300,1109,1052.0,57.0,Safe,Safe,0.985
+odfl,Old Dominion Freight Line Inc,467,423,280,1170,1052.0,118.0,Safe,Safe,0.95
+pcar,Paccar Inc,568,343,305,1216,1052.0,164.0,Safe,Safe,1.0
+nxpi,NXP Semiconductors NV,505,329,305,1139,1052.0,87.0,Safe,Safe,1.0
+orly,O'Reilly Automotive Inc,500,300,300,1100,1052.0,48.0,Safe,Safe,1.0
+payx,Paychex Inc,500,300,200,1000,1052.0,-52.0,Risk,Risk,0.0
+pfg,Principal Financial Group Inc,555,320,300,1175,1052.0,123.0,Safe,Safe,1.0
+rost,Ross Stores Inc,375,325,300,1000,1052.0,-52.0,Risk,Risk,0.01
+sbac,SBA Communications Corp,250,251,215,716,1052.0,-336.0,Risk,Risk,0.0
+qcom,Qualcomm Inc,409,300,300,1009,1052.0,-43.0,Risk,Risk,0.03
+pool,Pool Corp,525,306,313,1144,1052.0,92.0,Safe,Safe,1.0
+pep,PepsiCo Inc,719,340,358,1417,1052.0,365.0,Safe,Safe,1.0
+sbux,Starbucks Corp,475,385,295,1155,1052.0,103.0,Safe,Safe,0.975
+reg,Regency Centers Corp,575,372,365,1312,1052.0,260.0,Safe,Safe,1.0
+qrvo,Qorvo Inc,535,310,305,1150,1052.0,98.0,Safe,Safe,1.0
+ptc,PTC Inc,550,302,308,1160,1052.0,108.0,Safe,Safe,0.985
+penn,PENN Entertainment Inc,371,300,220,891,1052.0,-161.0,Risk,Risk,0.0
+pypl,PayPal Holdings Inc,370,244,285,899,1052.0,-153.0,Risk,Risk,0.0
+regn,Regeneron Pharmaceuticals Inc,505,327,305,1137,1052.0,85.0,Safe,Safe,1.0
+amgn,Amgen Inc,575,312,328,1215,1052.0,163.0,Safe,Safe,1.0
+snps,Synopsys Inc,525,316,315,1156,1052.0,104.0,Safe,Safe,1.0
+stx,Seagate Technology Holdings PLC,540,355,300,1195,1052.0,143.0,Safe,Safe,1.0
+tech,Bio-Techne Corp,510,268,300,1078,1052.0,26.0,Safe,Safe,0.97
+ter,Teradyne Inc,507,328,315,1150,1052.0,98.0,Safe,Safe,1.0
+swks,Skyworks Solutions Inc,515,303,270,1088,1052.0,36.0,Safe,Safe,0.905
+trmb,Trimble Inc,550,415,315,1280,1052.0,228.0,Safe,Safe,1.0
+trow,T Rowe Price Group Inc,510,325,310,1145,1052.0,93.0,Safe,Safe,1.0
+ttwo,Take-Two Interactive Software Inc,225,307,310,842,1052.0,-210.0,Risk,Risk,0.0
+tsla,Tesla Inc,555,160,278,993,1052.0,-59.0,Risk,Risk,0.115
+tsco,Tractor Supply Co,500,300,200,1000,1052.0,-52.0,Risk,Risk,0.0
+txn,Texas Instruments Inc,500,300,300,1100,1052.0,48.0,Safe,Safe,1.0
+tmus,T-Mobile US Inc,342,331,230,903,1052.0,-149.0,Risk,Risk,0.005
+ual,United Airlines Holdings Inc,205,203,221,629,1052.0,-423.0,Risk,Risk,0.0
+vrsk,Verisk Analytics Inc,615,366,300,1281,1052.0,229.0,Safe,Safe,1.0
+ulta,Ulta Beauty Inc,205,242,200,647,1052.0,-405.0,Risk,Risk,0.0
+vrtx,Vertex Pharmaceuticals Inc,500,300,300,1100,1052.0,48.0,Safe,Safe,1.0
+vtrs,Viatris Inc,500,300,200,1000,1052.0,-52.0,Risk,Risk,0.0
+vrsn,Verisign Inc,548,354,325,1227,1052.0,175.0,Safe,Safe,1.0
+wba,Walgreens Boots Alliance Inc,515,325,300,1140,1052.0,88.0,Safe,Safe,1.0
+ntap,NetApp Inc,545,359,325,1229,1052.0,177.0,Safe,Safe,1.0
+xel,Xcel Energy Inc,223,201,205,629,1052.0,-423.0,Risk,Risk,0.0
+xray,DENTSPLY SIRONA Inc,530,318,305,1153,1052.0,101.0,Safe,Safe,0.995
+zbra,Zebra Technologies Corp,320,317,300,937,1052.0,-115.0,Risk,Risk,0.005
+aap,Advance Auto Parts Inc,264,261,210,735,1052.0,-317.0,Risk,Risk,0.0
+zion,Zions Bancorporation NA,200,200,200,600,1052.0,-452.0,Risk,Risk,0.0
+wynn,Wynn Resorts Ltd,225,201,200,626,1052.0,-426.0,Risk,Risk,0.0
+a,Agilent Technologies Inc,573,231,233,1037,1052.0,-15.0,Risk,Risk,0.075
+abbv,Abbvie Inc,505,317,300,1122,1052.0,70.0,Safe,Safe,0.995
+abc,Amerisourcebergen Corp,505,300,315,1120,1052.0,68.0,Safe,Safe,0.995
+adm,Archer-Daniels-Midland Co,587,353,305,1245,1052.0,193.0,Safe,Safe,1.0
+abt,Abbott Laboratories,515,305,305,1125,1052.0,73.0,Safe,Safe,0.995
+aee,Ameren Corp,562,345,300,1207,1052.0,155.0,Safe,Safe,1.0
+aes,AES Corp,525,326,370,1221,1052.0,169.0,Safe,Safe,1.0
+afl,Aflac Inc,454,300,235,989,1052.0,-63.0,Risk,Risk,0.06
+acn,Accenture PLC,515,360,305,1180,1052.0,128.0,Safe,Safe,1.0
+ajg,Arthur J. Gallagher & Co.,530,344,310,1184,1052.0,132.0,Safe,Safe,1.0
+aiz,Assurant Inc,438,316,300,1054,1052.0,2.0,Safe,Safe,0.85
+alk,Alaska Air Group Inc,515,303,259,1077,1052.0,25.0,Safe,Safe,0.985
+alb,Albemarle Corp,545,322,315,1182,1052.0,130.0,Safe,Safe,1.0
+aig,American International Group Inc,518,323,310,1151,1052.0,99.0,Safe,Safe,0.995
+all,Allstate Corp,530,300,220,1050,1052.0,-2.0,Risk,Risk,0.345
+alle,Allegion PLC,542,322,315,1179,1052.0,127.0,Safe,Safe,1.0
+amp,Ameriprise Financial Inc,396,308,267,971,1052.0,-81.0,Risk,Risk,0.01
+ame,AMETEK Inc,540,329,270,1139,1052.0,87.0,Safe,Safe,0.89
+amt,American Tower Corp,530,333,305,1168,1052.0,116.0,Safe,Safe,1.0
+aos,A O Smith Corp,510,315,310,1135,1052.0,83.0,Safe,Safe,0.995
+apd,Air Products and Chemicals Inc,700,442,300,1442,1052.0,390.0,Safe,Safe,1.0
+aon,Aon PLC,485,304,288,1077,1052.0,25.0,Safe,Safe,0.95
+anet,Arista Networks Inc,444,310,295,1049,1052.0,-3.0,Risk,Risk,0.29
+aph,Amphenol Corp,512,303,475,1290,1052.0,238.0,Safe,Safe,0.94
+ato,Atmos Energy Corp,572,368,315,1255,1052.0,203.0,Safe,Safe,1.0
+awk,American Water Works Company Inc,653,395,300,1348,1052.0,296.0,Safe,Safe,1.0
+are,Alexandria Real Estate Equities Inc,600,337,345,1282,1052.0,230.0,Safe,Safe,1.0
+aptv,Aptiv PLC,555,339,310,1204,1052.0,152.0,Safe,Safe,1.0
+avb,Avalonbay Communities Inc,500,300,298,1098,1052.0,46.0,Safe,Safe,1.0
+avy,Avery Dennison Corp,535,347,325,1207,1052.0,155.0,Safe,Safe,0.98
+ba,Boeing Co,220,224,235,679,1052.0,-373.0,Risk,Risk,0.0
+bac,Bank of America Corp,220,394,265,879,1052.0,-173.0,Risk,Risk,0.04
+bax,Baxter International Inc,500,316,300,1116,1052.0,64.0,Safe,Safe,1.0
+bbwi,Bath & Body Works Inc,525,303,300,1128,1052.0,76.0,Safe,Safe,1.0
+bdx,Becton Dickinson and Co,607,384,315,1306,1052.0,254.0,Safe,Safe,1.0
+bio,Bio Rad Laboratories Inc,275,227,300,802,1052.0,-250.0,Risk,Risk,0.0
+bby,Best Buy Co Inc,430,231,300,961,1052.0,-91.0,Risk,Risk,0.12
+bk,Bank of New York Mellon Corp,500,300,300,1100,1052.0,48.0,Safe,Safe,1.0
+axp,American Express Co,230,226,208,664,1052.0,-388.0,Risk,Risk,0.0
+br,Broadridge Financial Solutions Inc,550,313,325,1188,1052.0,136.0,Safe,Safe,1.0
+bmy,Bristol-Myers Squibb Co,500,321,310,1131,1052.0,79.0,Safe,Safe,1.0
+bro,Brown & Brown Inc,405,320,300,1025,1052.0,-27.0,Risk,Risk,0.045
+azo,Autozone Inc,260,222,213,695,1052.0,-357.0,Risk,Risk,0.0
+bsx,Boston Scientific Corp,525,399,300,1224,1052.0,172.0,Safe,Safe,1.0
+bx,Blackstone Inc,534,343,320,1197,1052.0,145.0,Safe,Safe,1.0
+bxp,Boston Properties Inc,532,339,305,1176,1052.0,124.0,Safe,Safe,1.0
+sivb,SVB Financial Group,510,340,300,1150,1052.0,98.0,Safe,Safe,1.0
+c,Citigroup Inc,515,300,303,1118,1052.0,66.0,Safe,Safe,1.0
+cat,Caterpillar Inc,235,239,235,709,1052.0,-343.0,Risk,Risk,0.0
+carr,Carrier Global Corp,210,258,226,694,1052.0,-358.0,Risk,Risk,0.0
+cbre,CBRE Group Inc,200,209,200,609,1052.0,-443.0,Risk,Risk,0.0
+cci,Crown Castle Inc,500,300,200,1000,1052.0,-52.0,Risk,Risk,0.0
+cday,Ceridian HCM Holding Inc,530,379,320,1229,1052.0,177.0,Safe,Safe,1.0
+cma,Comerica Inc,280,300,230,810,1052.0,-242.0,Risk,Risk,0.0
+dhi,D R Horton Inc,250,271,205,726,1052.0,-326.0,Risk,Risk,0.03
+dov,Dover Corp,500,320,305,1125,1052.0,73.0,Safe,Safe,0.995
+dri,Darden Restaurants Inc,515,309,300,1124,1052.0,72.0,Safe,Safe,1.0
+ce,Celanese Corp,500,319,300,1119,1052.0,67.0,Safe,Safe,1.0
+dg,Dollar General Corp,247,222,200,669,1052.0,-383.0,Risk,Risk,0.0
+cmg,Chipotle Mexican Grill Inc,210,241,213,664,1052.0,-388.0,Risk,Risk,0.0
+dgx,Quest Diagnostics Inc,230,300,205,735,1052.0,-317.0,Risk,Risk,0.0
+ccl,Carnival Corp,515,326,320,1161,1052.0,109.0,Safe,Safe,1.0
+chd,Church & Dwight Co Inc,578,341,348,1267,1052.0,215.0,Safe,Safe,1.0
+dow,Dow Inc,225,201,200,626,1052.0,-426.0,Risk,Risk,0.0
+dfs,Discover Financial Services,335,321,313,969,1052.0,-83.0,Risk,Risk,0.02
+duk,Duke Energy Corp,604,362,328,1294,1052.0,242.0,Safe,Safe,1.0
+dre,Duke Realty Corp,540,313,300,1153,1052.0,101.0,Safe,Safe,1.0
+cf,CF Industries Holdings Inc,525,307,310,1142,1052.0,90.0,Safe,Safe,0.995
+dvn,Devon Energy Corp,570,301,300,1171,1052.0,119.0,Safe,Safe,1.0
+ecl,Ecolab Inc,547,373,325,1245,1052.0,193.0,Safe,Safe,1.0
+hd,Home Depot Inc,230,317,205,752,1052.0,-300.0,Risk,Risk,0.02
+dte,DTE Energy Co,592,313,210,1115,1052.0,63.0,Safe,Safe,0.855
+eix,Edison International,700,513,315,1528,1052.0,476.0,Safe,Safe,0.99
+glw,Corning Inc,200,200,200,600,1052.0,-452.0,Risk,Risk,0.0
+dva,DaVita Inc,260,332,300,892,1052.0,-160.0,Risk,Risk,0.015
+wdc,Western Digital Corp,545,339,260,1144,1052.0,92.0,Safe,Safe,0.98
+gs,Goldman Sachs Group Inc,525,305,305,1135,1052.0,83.0,Safe,Safe,0.995
+dxc,DXC Technology Co,505,326,305,1136,1052.0,84.0,Safe,Safe,1.0
+etn,Eaton Corporation PLC,520,328,320,1168,1052.0,116.0,Safe,Safe,1.0
+ed,Consolidated Edison Inc,700,358,300,1358,1052.0,306.0,Safe,Safe,1.0
+hsy,Hershey Co,525,361,300,1186,1052.0,134.0,Safe,Safe,1.0
+jnj,Johnson & Johnson,565,308,300,1173,1052.0,121.0,Safe,Safe,1.0
+jpm,JPMorgan Chase & Co,505,319,338,1162,1052.0,110.0,Safe,Safe,1.0
+ko,Coca-Cola Co,200,201,200,601,1052.0,-451.0,Risk,Risk,0.0
+kmx,Carmax Inc,251,237,300,788,1052.0,-264.0,Risk,Risk,0.0
+ldos,Leidos Holdings Inc,500,300,300,1100,1052.0,48.0,Safe,Safe,1.0
+leg,Leggett & Platt Inc,500,300,300,1100,1052.0,48.0,Safe,Safe,1.0
+mcd,McDonald's Corp,505,326,305,1136,1052.0,84.0,Safe,Safe,1.0
+lin,Linde PLC,210,240,275,725,1052.0,-327.0,Risk,Risk,0.0
+lumn,Lumen Technologies Inc,535,327,305,1167,1052.0,115.0,Safe,Safe,1.0
+lyb,LyondellBasell Industries NV,587,352,330,1269,1052.0,217.0,Safe,Safe,0.99
+mco,Moody's Corp,515,308,235,1058,1052.0,6.0,Safe,Safe,0.8
+mck,Mckesson Corp,500,303,310,1113,1052.0,61.0,Safe,Safe,1.0
+mas,Masco Corp,522,323,305,1150,1052.0,98.0,Safe,Safe,0.99
+low,Lowe's Companies Inc,218,200,200,618,1052.0,-434.0,Risk,Risk,0.0
+mdt,Medtronic PLC,515,308,315,1138,1052.0,86.0,Safe,Safe,0.995
+mkc,McCormick & Company Inc,500,300,300,1100,1052.0,48.0,Safe,Safe,1.0
+met,MetLife Inc,517,305,305,1127,1052.0,75.0,Safe,Safe,0.995
+mgm,MGM Resorts International,500,300,200,1000,1052.0,-52.0,Risk,Risk,0.0
+mmc,Marsh & McLennan Companies Inc,500,300,300,1100,1052.0,48.0,Safe,Safe,1.0
+mo,Altria Group Inc,500,327,341,1168,1052.0,116.0,Safe,Safe,1.0
+bwa,Borgwarner Inc,260,206,230,696,1052.0,-356.0,Risk,Risk,0.0
+mrk,Merck & Co Inc,500,305,315,1120,1052.0,68.0,Safe,Safe,1.0
+mro,Marathon Oil Corp,530,313,305,1148,1052.0,96.0,Safe,Safe,1.0
+mpc,Marathon Petroleum Corp,700,366,315,1381,1052.0,329.0,Safe,Safe,1.0
+ms,Morgan Stanley,555,303,320,1178,1052.0,126.0,Safe,Safe,1.0
+mtb,M&T Bank Corp,500,303,260,1063,1052.0,11.0,Safe,Safe,0.925
+mtd,Mettler-Toledo International Inc,505,300,240,1045,1052.0,-7.0,Risk,Risk,0.155
+msi,Motorola Solutions Inc,505,305,347,1157,1052.0,105.0,Safe,Safe,0.99
+nee,Nextera Energy Inc,668,306,313,1287,1052.0,235.0,Safe,Safe,1.0
+msci,MSCI Inc,580,347,335,1262,1052.0,210.0,Safe,Safe,0.985
+nclh,Norwegian Cruise Line Holdings Ltd,495,306,300,1101,1052.0,49.0,Safe,Safe,1.0
+ni,NiSource Inc,361,322,223,906,1052.0,-146.0,Risk,Risk,0.02
+noc,Northrop Grumman Corp,505,302,300,1107,1052.0,55.0,Safe,Safe,1.0
+now,ServiceNow Inc,550,374,350,1274,1052.0,222.0,Safe,Safe,1.0
+nue,Nucor Corp,374,340,225,939,1052.0,-113.0,Risk,Risk,0.02
+nlsn,Nielsen Holdings PLC,500,310,300,1110,1052.0,58.0,Safe,Safe,1.0
+nsc,Norfolk Southern Corp,358,339,330,1027,1052.0,-25.0,Risk,Risk,0.005
+nvr,NVR Inc,265,206,205,676,1052.0,-376.0,Risk,Risk,0.0
+pgr,Progressive Corp,350,355,270,975,1052.0,-77.0,Risk,Risk,0.055
+pfe,Pfizer Inc,500,300,300,1100,1052.0,48.0,Safe,Safe,1.0
+phm,Pultegroup Inc,215,203,240,658,1052.0,-394.0,Risk,Risk,0.0
+ph,Parker-Hannifin Corp,325,303,225,853,1052.0,-199.0,Risk,Risk,0.005
+pki,PerkinElmer Inc,515,316,325,1156,1052.0,104.0,Safe,Safe,1.0
+pld,Prologis Inc,579,374,315,1268,1052.0,216.0,Safe,Safe,1.0
+ppg,PPG Industries Inc,293,236,220,749,1052.0,-303.0,Risk,Risk,0.0
+psa,Public Storage,235,245,205,685,1052.0,-367.0,Risk,Risk,0.0
+pnc,PNC Financial Services Group Inc,455,323,300,1078,1052.0,26.0,Safe,Safe,0.99
+pm,Philip Morris International Inc,520,327,315,1162,1052.0,110.0,Safe,Safe,1.0
+pkg,Packaging Corp of America,500,303,300,1103,1052.0,51.0,Safe,Safe,1.0
+psx,Phillips 66,569,363,310,1242,1052.0,190.0,Safe,Safe,1.0
+pru,Prudential Financial Inc,285,300,288,873,1052.0,-179.0,Risk,Risk,0.025
+pnr,Pentair PLC,433,330,315,1078,1052.0,26.0,Safe,Safe,0.94
+pnw,Pinnacle West Capital Corp,629,479,300,1408,1052.0,356.0,Safe,Safe,1.0
+ppl,PPL Corp,525,306,300,1131,1052.0,79.0,Safe,Safe,1.0
+pwr,Quanta Services Inc,540,382,310,1232,1052.0,180.0,Safe,Safe,1.0
+rjf,Raymond James Financial Inc,505,309,305,1119,1052.0,67.0,Safe,Safe,1.0
+rf,Regions Financial Corp,490,304,305,1099,1052.0,47.0,Safe,Safe,1.0
+rcl,Royal Caribbean Cruises Ltd,503,327,310,1140,1052.0,88.0,Safe,Safe,1.0
+rl,Ralph Lauren Corp,420,352,303,1075,1052.0,23.0,Safe,Safe,0.845
+pvh,PVH Corp,418,319,315,1052,1052.0,0.0,Safe,Safe,0.795
+rhi,Robert Half International Inc,255,334,310,899,1052.0,-153.0,Risk,Risk,0.01
+pxd,Pioneer Natural Resources Co,700,412,300,1412,1052.0,360.0,Safe,Safe,1.0
+rol,Rollins Inc,500,300,305,1105,1052.0,53.0,Safe,Safe,1.0
+rmd,Resmed Inc,330,312,300,942,1052.0,-110.0,Risk,Risk,0.015
+schw,Charles Schwab Corp,515,300,300,1115,1052.0,63.0,Safe,Safe,1.0
+rok,Rockwell Automation Inc,308,243,210,761,1052.0,-291.0,Risk,Risk,0.0
+tdg,TransDigm Group Inc,500,300,300,1100,1052.0,48.0,Safe,Safe,1.0
+see,Sealed Air Corp,555,318,257,1130,1052.0,78.0,Safe,Safe,0.98
+rop,Roper Technologies Inc,570,350,340,1260,1052.0,208.0,Safe,Safe,0.995
+swk,Stanley Black & Decker Inc,555,315,300,1170,1052.0,118.0,Safe,Safe,1.0
+stz,Constellation Brands Inc,459,313,295,1067,1052.0,15.0,Safe,Safe,0.845
+syk,Stryker Corp,485,321,325,1131,1052.0,79.0,Safe,Safe,0.995
+syy,Sysco Corp,555,301,305,1161,1052.0,109.0,Safe,Safe,1.0
+shw,Sherwin-Williams Co,295,259,220,774,1052.0,-278.0,Risk,Risk,0.0
+spgi,S&P Global Inc,435,341,310,1086,1052.0,34.0,Safe,Safe,0.96
+ste,STERIS plc,510,301,305,1116,1052.0,64.0,Safe,Safe,1.0
+syf,Synchrony Financial,325,312,310,947,1052.0,-105.0,Risk,Risk,0.005
+spg,Simon Property Group Inc,225,247,205,677,1052.0,-375.0,Risk,Risk,0.005
+sre,Sempra Energy,700,386,310,1396,1052.0,344.0,Safe,Safe,1.0
+so,Southern Co,515,307,330,1152,1052.0,100.0,Safe,Safe,1.0
+stt,State Street Corp,225,211,210,646,1052.0,-406.0,Risk,Risk,0.0
+sna,Snap-On Inc,500,300,261,1061,1052.0,9.0,Safe,Safe,0.845
+rtx,Raytheon Technologies Corp,520,330,400,1250,1052.0,198.0,Safe,Safe,1.0
+hig,Hartford Financial Services Group Inc,500,305,305,1110,1052.0,58.0,Safe,Safe,0.995
+tel,TE Connectivity Ltd,200,200,200,600,1052.0,-452.0,Risk,Risk,0.0
+tfx,Teleflex Inc,200,200,200,600,1052.0,-452.0,Risk,Risk,0.0
+tfc,Truist Financial Corp,480,308,300,1088,1052.0,36.0,Safe,Safe,1.0
+tdy,Teledyne Technologies Inc,500,300,300,1100,1052.0,48.0,Safe,Safe,1.0
+tgt,Target Corp,550,342,313,1205,1052.0,153.0,Safe,Safe,1.0
+tjx,TJX Companies Inc,500,300,300,1100,1052.0,48.0,Safe,Safe,1.0
+tpr,Tapestry Inc,483,310,300,1093,1052.0,41.0,Safe,Safe,1.0
+trv,Travelers Companies Inc,500,300,300,1100,1052.0,48.0,Safe,Safe,1.0
+tmo,Thermo Fisher Scientific Inc,527,332,280,1139,1052.0,87.0,Safe,Safe,0.98
+tt,Trane Technologies PLC,700,389,320,1409,1052.0,357.0,Safe,Safe,1.0
+tsn,Tyson Foods Inc,530,374,340,1244,1052.0,192.0,Safe,Safe,1.0
+tyl,Tyler Technologies Inc,400,306,305,1011,1052.0,-41.0,Risk,Risk,0.03
+txt,Textron Inc,500,300,200,1000,1052.0,-52.0,Risk,Risk,0.0
+unh,UnitedHealth Group Inc,500,300,300,1100,1052.0,48.0,Safe,Safe,1.0
+ups,United Parcel Service Inc,540,374,245,1159,1052.0,107.0,Safe,Safe,0.92
+udr,UDR Inc,225,301,215,741,1052.0,-311.0,Risk,Risk,0.0
+uhs,Universal Health Services Inc,560,320,338,1218,1052.0,166.0,Safe,Safe,0.995
+mos,Mosaic Co,515,379,315,1209,1052.0,157.0,Safe,Safe,1.0
+usb,US Bancorp,336,317,300,953,1052.0,-99.0,Risk,Risk,0.005
+uri,United Rentals Inc,472,318,300,1090,1052.0,38.0,Safe,Safe,1.0
+vno,Vornado Realty Trust,540,326,325,1191,1052.0,139.0,Safe,Safe,1.0
+vlo,Valero Energy Corp,608,307,330,1245,1052.0,193.0,Safe,Safe,1.0
+vfc,VF Corp,505,301,300,1106,1052.0,54.0,Safe,Safe,1.0
+v,Visa Inc,504,368,310,1182,1052.0,130.0,Safe,Safe,1.0
+vtr,Ventas Inc,500,300,300,1100,1052.0,48.0,Safe,Safe,1.0
+vmc,Vulcan Materials Co,570,319,300,1189,1052.0,137.0,Safe,Safe,1.0
+wec,WEC Energy Group Inc,635,438,300,1373,1052.0,321.0,Safe,Safe,1.0
+well,Welltower OP LLC,437,326,300,1063,1052.0,11.0,Safe,Safe,0.875
+wat,Waters Corp,270,292,235,797,1052.0,-255.0,Risk,Risk,0.0
+wm,Waste Management Inc,613,408,285,1306,1052.0,254.0,Safe,Safe,0.96
+wab,Westinghouse Air Brake Technologies Corp,607,311,320,1238,1052.0,186.0,Safe,Safe,1.0
+wmb,Williams Companies Inc,500,300,300,1100,1052.0,48.0,Safe,Safe,1.0
+wfc,Wells Fargo & Co,500,300,300,1100,1052.0,48.0,Safe,Safe,1.0
+whr,Whirlpool Corp,500,301,300,1101,1052.0,49.0,Safe,Safe,0.995
+wst,West Pharmaceutical Services Inc,540,330,305,1175,1052.0,123.0,Safe,Safe,1.0
+wrb,W R Berkley Corp,360,294,300,954,1052.0,-98.0,Risk,Risk,0.02
+wmt,Walmart Inc,310,281,220,811,1052.0,-241.0,Risk,Risk,0.0
+wu,Western Union Co,205,205,228,638,1052.0,-414.0,Risk,Risk,0.0
+yum,Yum! Brands Inc,500,320,310,1130,1052.0,78.0,Safe,Safe,1.0
+xyl,Xylem Inc,374,254,210,838,1052.0,-214.0,Risk,Risk,0.0
+wy,Weyerhaeuser Co,700,340,300,1340,1052.0,288.0,Safe,Safe,1.0
+wrk,Westrock Co,555,324,305,1184,1052.0,132.0,Safe,Safe,0.995
+xom,Exxon Mobil Corp,538,322,313,1173,1052.0,121.0,Safe,Safe,0.995
+zbh,Zimmer Biomet Holdings Inc,520,330,310,1160,1052.0,108.0,Safe,Safe,0.995
+zts,Zoetis Inc,520,348,310,1178,1052.0,126.0,Safe,Safe,1.0
+de,Deere & Co,560,339,305,1204,1052.0,152.0,Safe,Safe,1.0
+dd,Dupont De Nemours Inc,550,341,295,1186,1052.0,134.0,Safe,Safe,0.985
+d,Dominion Energy Inc,535,325,310,1170,1052.0,118.0,Safe,Safe,1.0
+cvs,CVS Health Corp,540,302,315,1157,1052.0,105.0,Safe,Safe,1.0
+dal,Delta Air Lines Inc,515,300,313,1128,1052.0,76.0,Safe,Safe,1.0
+crm,Salesforce Inc,215,241,200,656,1052.0,-396.0,Risk,Risk,0.0
+cvx,Chevron Corp,210,217,210,637,1052.0,-415.0,Risk,Risk,0.0
+ctva,Corteva Inc,610,312,320,1242,1052.0,190.0,Safe,Safe,1.0
+ctra,Coterra Energy Inc,555,329,310,1194,1052.0,142.0,Safe,Safe,1.0
+ctlt,Catalent Inc,483,303,305,1091,1052.0,39.0,Safe,Safe,1.0
+cpb,Campbell Soup Co,515,301,305,1121,1052.0,69.0,Safe,Safe,1.0
+crl,Charles River Laboratories International Inc,510,322,235,1067,1052.0,15.0,Safe,Safe,0.66
+cop,Conocophillips,687,544,305,1536,1052.0,484.0,Safe,Safe,0.995
+coo,Cooper Companies Inc,500,300,300,1100,1052.0,48.0,Safe,Safe,1.0
+cof,Capital One Financial Corp,508,309,320,1137,1052.0,85.0,Safe,Safe,1.0
+cnc,Centene Corp,548,355,315,1218,1052.0,166.0,Safe,Safe,1.0
+cnp,CenterPoint Energy Inc,550,320,260,1130,1052.0,78.0,Safe,Safe,0.99
+cms,CMS Energy Corp,450,667,75,1192,1052.0,140.0,Safe,Risk,0.43
+cmi,Cummins Inc,510,320,300,1130,1052.0,78.0,Safe,Safe,1.0
+cl,Colgate-Palmolive Co,520,310,310,1140,1052.0,88.0,Safe,Safe,1.0
+mmm,3M Co,526,310,305,1141,1052.0,89.0,Safe,Safe,1.0
+cfg,Citizens Financial Group Inc,230,215,205,650,1052.0,-402.0,Risk,Risk,0.0
+cag,Conagra Brands Inc,525,306,300,1131,1052.0,79.0,Safe,Safe,1.0
+ci,Cigna Corp,508,328,310,1146,1052.0,94.0,Safe,Safe,1.0
+cah,Cardinal Health Inc,505,300,315,1120,1052.0,68.0,Safe,Safe,0.995
+ma,Mastercard Inc,210,230,215,655,1052.0,-397.0,Risk,Risk,0.0
+lw,Lamb Weston Holdings Inc,345,256,300,901,1052.0,-151.0,Risk,Risk,0.0
+maa,Mid-America Apartment Communities Inc,315,261,210,786,1052.0,-266.0,Risk,Risk,0.0
+mlm,Martin Marietta Materials Inc,573,313,300,1186,1052.0,134.0,Safe,Safe,1.0
+luv,Southwest Airlines Co,295,314,218,827,1052.0,-225.0,Risk,Risk,0.045
+lnc,Lincoln National Corp,700,300,300,1300,1052.0,248.0,Safe,Safe,1.0
+len,Lennar Corp,363,344,220,927,1052.0,-125.0,Risk,Risk,0.005
+pg,Procter & Gamble Co,560,422,310,1292,1052.0,240.0,Safe,Safe,1.0
+ogn,Organon & Co,515,335,305,1155,1052.0,103.0,Safe,Safe,1.0
+oxy,Occidental Petroleum Corp,505,302,300,1107,1052.0,55.0,Safe,Safe,1.0
+dell,Dell Technologies Inc,500,318,275,1093,1052.0,41.0,Safe,Safe,0.965
+payc,Paycom Software Inc,470,305,315,1090,1052.0,38.0,Safe,Safe,1.0
+peg,Public Service Enterprise Group Inc,500,300,205,1005,1052.0,-47.0,Risk,Risk,0.0
+oke,ONEOK Inc,581,326,355,1262,1052.0,210.0,Safe,Safe,1.0
+nrg,NRG Energy Inc,371,327,218,916,1052.0,-136.0,Risk,Risk,0.005
+l,Loews Corp,505,303,313,1121,1052.0,69.0,Safe,Safe,1.0
+omc,Omnicom Group Inc,543,333,305,1181,1052.0,129.0,Safe,Safe,1.0
+orcl,Oracle Corp,500,300,200,1000,1052.0,-52.0,Risk,Risk,0.0
+o,Realty Income Corp,500,300,300,1100,1052.0,48.0,Safe,Safe,1.0
+dpz,Domino's Pizza Inc,205,205,200,610,1052.0,-442.0,Risk,Risk,0.0
+t,AT&T Inc,210,200,305,715,1052.0,-337.0,Risk,Risk,0.0
+unp,Union Pacific Corp,290,257,245,792,1052.0,-260.0,Risk,Risk,0.0
+nem,Newmont Corporation,675,389,355,1419,1052.0,367.0,Safe,Safe,1.0
+fdx,FedEx Corp,335,278,255,868,1052.0,-184.0,Risk,Risk,0.0
+nke,Nike Inc,205,275,200,680,1052.0,-372.0,Risk,Risk,0.0
+f,Ford Motor Co,292,246,215,753,1052.0,-299.0,Risk,Risk,0.0
+lmt,Lockheed Martin Corp,510,324,320,1154,1052.0,102.0,Safe,Safe,0.995
+rsg,Republic Services Inc,293,235,216,744,1052.0,-308.0,Risk,Risk,0.0
+enph,Enphase Energy Inc,565,316,300,1181,1052.0,129.0,Safe,Safe,1.0
+exc,Exelon Corp,694,403,316,1413,1052.0,361.0,Safe,Safe,1.0
+expd,Expeditors International of Washington Inc,510,302,300,1112,1052.0,60.0,Safe,Safe,1.0
+expe,Expedia Group Inc,225,242,305,772,1052.0,-280.0,Risk,Risk,0.0
+fast,Fastenal Co,230,302,200,732,1052.0,-320.0,Risk,Risk,0.0
+ffiv,F5 Inc,200,221,215,636,1052.0,-416.0,Risk,Risk,0.0
+fisv,Fiserv Inc,395,302,310,1007,1052.0,-45.0,Risk,Risk,0.02
+eqix,Equinix Inc,515,323,315,1153,1052.0,101.0,Safe,Safe,1.0
+ftnt,Fortinet Inc,500,306,305,1111,1052.0,59.0,Safe,Safe,0.995
+etsy,ETSY Inc,235,241,235,711,1052.0,-341.0,Risk,Risk,0.0
+ben,Franklin Resources Inc,321,349,310,980,1052.0,-72.0,Risk,Risk,0.03
+dlr,Digital Realty Trust Inc,540,317,300,1157,1052.0,105.0,Safe,Safe,0.995
+dhr,Danaher Corp,530,344,385,1259,1052.0,207.0,Safe,Safe,1.0
+efx,Equifax Inc,390,300,305,995,1052.0,-57.0,Risk,Risk,0.015
+el,Estee Lauder Companies Inc,500,300,300,1100,1052.0,48.0,Safe,Safe,1.0
+emn,Eastman Chemical Co,583,365,310,1258,1052.0,206.0,Safe,Safe,1.0
+emr,Emerson Electric Co,605,323,315,1243,1052.0,191.0,Safe,Safe,1.0
+eog,EOG Resources Inc,550,252,240,1042,1052.0,-10.0,Risk,Risk,0.13
+eqr,Equity Residential,235,208,210,653,1052.0,-399.0,Risk,Risk,0.0
+es,Eversource Energy,576,409,310,1295,1052.0,243.0,Safe,Safe,1.0
+ess,Essex Property Trust Inc,377,304,210,891,1052.0,-161.0,Risk,Risk,0.005
+fitb,Fifth Third Bancorp,313,300,215,828,1052.0,-224.0,Risk,Risk,0.0
+etr,Entergy Corp,653,380,310,1343,1052.0,291.0,Safe,Safe,1.0
+exr,Extra Space Storage Inc,572,289,225,1086,1052.0,34.0,Safe,Risk,0.325
+ew,Edwards Lifesciences Corp,290,333,305,928,1052.0,-124.0,Risk,Risk,0.01
+foxa,Fox Corp,295,330,315,940,1052.0,-112.0,Risk,Risk,0.015
+fcx,Freeport-McMoRan Inc,608,313,305,1226,1052.0,174.0,Safe,Safe,1.0
+fe,FirstEnergy Corp,510,304,300,1114,1052.0,62.0,Safe,Safe,1.0
+flt,Fleetcor Technologies Inc,410,302,300,1012,1052.0,-40.0,Risk,Risk,0.02
+fis,Fidelity National Information Services Inc,530,298,310,1138,1052.0,86.0,Safe,Safe,0.97
+frc,First Republic Bank,370,331,288,989,1052.0,-63.0,Risk,Risk,0.01
+fmc,FMC Corp,510,307,315,1132,1052.0,80.0,Safe,Safe,0.995
+frt,Federal Realty Investment Trust,525,302,300,1127,1052.0,75.0,Safe,Safe,1.0
+ftv,Fortive Corp,540,326,305,1171,1052.0,119.0,Safe,Safe,1.0
+gps,Gap Inc,515,349,300,1164,1052.0,112.0,Safe,Safe,0.995
+grmn,Garmin Ltd,205,242,200,647,1052.0,-405.0,Risk,Risk,0.0
+it,Gartner Inc,500,316,315,1131,1052.0,79.0,Safe,Safe,1.0
+lly,Eli Lilly and Co,510,360,310,1180,1052.0,128.0,Safe,Safe,1.0
+re,Everest Re Group Ltd,505,276,305,1086,1052.0,34.0,Safe,Safe,0.925
+evrg,Evergy Inc,555,310,300,1165,1052.0,113.0,Safe,Safe,1.0
+fbhs,Fortune Brands Home & Security Inc,510,302,300,1112,1052.0,60.0,Safe,Safe,1.0
+gild,Gilead Sciences Inc,500,303,300,1103,1052.0,51.0,Safe,Safe,1.0
+holx,Hologic Inc,515,324,315,1154,1052.0,102.0,Safe,Safe,1.0
+hsic,Henry Schein Inc,210,205,200,615,1052.0,-437.0,Risk,Risk,0.0
+hon,Honeywell International Inc,545,344,308,1197,1052.0,145.0,Safe,Safe,0.995
+hst,Host Hotels & Resorts Inc,510,318,318,1146,1052.0,94.0,Safe,Safe,1.0
+gd,General Dynamics Corp,510,310,300,1120,1052.0,68.0,Safe,Safe,1.0
+has,Hasbro Inc,255,301,300,856,1052.0,-196.0,Risk,Risk,0.005
+hban,Huntington Bancshares Inc,308,300,300,908,1052.0,-144.0,Risk,Risk,0.005
+gl,Globe Life Inc,215,238,215,668,1052.0,-384.0,Risk,Risk,0.0
+gpc,Genuine Parts Co,535,225,305,1065,1052.0,13.0,Safe,Risk,0.37
+gnrc,Generac Holdings Inc,535,311,250,1096,1052.0,44.0,Safe,Safe,1.0
+gpn,Global Payments Inc,310,343,265,918,1052.0,-134.0,Risk,Risk,0.015
+hca,HCA Healthcare Inc,520,348,305,1173,1052.0,121.0,Safe,Safe,1.0
+hbi,HanesBrands Inc,310,223,305,838,1052.0,-214.0,Risk,Risk,0.0
+hii,Huntington Ingalls Industries Inc,545,315,315,1175,1052.0,123.0,Safe,Safe,0.995
+hpe,Hewlett Packard Enterprise Co,230,359,230,819,1052.0,-233.0,Risk,Risk,0.01
+hes,Hess Corp,535,300,305,1140,1052.0,88.0,Safe,Safe,1.0
+hlt,Hilton Worldwide Holdings Inc,293,200,205,698,1052.0,-354.0,Risk,Risk,0.0
+hrl,Hormel Foods Corp,570,322,300,1192,1052.0,140.0,Safe,Safe,0.985
+hpq,HP Inc,245,211,200,656,1052.0,-396.0,Risk,Risk,0.0
+hum,Humana Inc,462,300,300,1062,1052.0,10.0,Safe,Safe,0.99
+hwm,Howmet Aerospace Inc,525,315,320,1160,1052.0,108.0,Safe,Safe,0.995
+peak,Healthpeak Properties Inc,535,331,335,1201,1052.0,149.0,Safe,Safe,0.99
+gis,General Mills Inc,585,326,365,1276,1052.0,224.0,Safe,Safe,1.0
+ge,General Electric Co,533,300,300,1133,1052.0,81.0,Safe,Safe,1.0
+spot,Spotify Technology SA,500,283,255,1038,1052.0,-14.0,Risk,Safe,0.525
+trtn,Triton International Ltd,477,306,300,1083,1052.0,31.0,Safe,Safe,1.0
+trtx,TPG RE Finance Trust Inc,230,239,300,769,1052.0,-283.0,Risk,Risk,0.0
+tru,TransUnion,510,313,310,1133,1052.0,81.0,Safe,Safe,1.0
+yeti,Yeti Holdings Inc,269,253,305,827,1052.0,-225.0,Risk,Risk,0.01
+yelp,Yelp Inc,245,515,213,973,1052.0,-79.0,Risk,Risk,0.02
+yext,Yext Inc,325,314,310,949,1052.0,-103.0,Risk,Risk,0.005
+spr,Spirit AeroSystems Holdings Inc,515,337,300,1152,1052.0,100.0,Safe,Safe,1.0
+ysg,Yatsen Holding Ltd,355,217,325,897,1052.0,-155.0,Risk,Risk,0.0
+yrd,Yiren Digital Ltd,200,205,205,610,1052.0,-442.0,Risk,Risk,0.0
+yumc,Yum China Holdings Inc,205,217,220,642,1052.0,-410.0,Risk,Risk,0.0
+trox,Tronox Holdings PLC,503,320,300,1123,1052.0,71.0,Safe,Safe,1.0
+zepp,Zepp Health Corp,202,210,295,707,1052.0,-345.0,Risk,Risk,0.0
+zev,Lightning eMotors Inc,535,391,240,1166,1052.0,114.0,Safe,Safe,0.945
+zuo,Zuora Inc,240,234,200,674,1052.0,-378.0,Risk,Risk,0.0
+zim,ZIM Integrated Shipping Services Ltd,329,351,320,1000,1052.0,-52.0,Risk,Risk,0.07
+zyme,Zymeworks Inc,240,326,305,871,1052.0,-181.0,Risk,Risk,0.025
+zws,Zurn Elkay Water Solutions Corp,500,300,300,1100,1052.0,48.0,Safe,Safe,1.0
+you,Clear Secure Inc,515,278,205,998,1052.0,-54.0,Risk,Risk,0.065
+zen,Zendesk Inc,515,338,320,1173,1052.0,121.0,Safe,Safe,1.0
+plxs,Plexus Corp,510,300,300,1110,1052.0,58.0,Safe,Safe,1.0
+ship,Seanergy Maritime Holdings Corp,345,300,305,950,1052.0,-102.0,Risk,Risk,0.01
+shls,Shoals Technologies Group Inc,285,280,300,865,1052.0,-187.0,Risk,Risk,0.005
+shoo,Steven Madden Ltd,508,231,300,1039,1052.0,-13.0,Risk,Risk,0.18
+shyf,Shyft Group Inc,510,303,275,1088,1052.0,36.0,Safe,Safe,0.915
+sibn,SI-BONE Inc,220,228,210,658,1052.0,-394.0,Risk,Risk,0.0
+sieb,Siebert Financial Corp,300,299,235,834,1052.0,-218.0,Risk,Risk,0.005
+plya,Playa Hotels & Resorts NV,210,200,205,615,1052.0,-437.0,Risk,Risk,0.0
+wwe,World Wrestling Entertainment Inc,275,332,315,922,1052.0,-130.0,Risk,Risk,0.01
+pmcb,PharmaCyte Biotech Inc,220,202,300,722,1052.0,-330.0,Risk,Risk,0.0
+www,Wolverine World Wide Inc,390,298,308,996,1052.0,-56.0,Risk,Risk,0.025
+xhr,Xenia Hotels & Resorts Inc,260,263,236,759,1052.0,-293.0,Risk,Risk,0.0
+x,United States Steel Corp,535,364,300,1199,1052.0,147.0,Safe,Safe,1.0
+xpev,Xpeng Inc,215,208,200,623,1052.0,-429.0,Risk,Risk,0.0
+xpo,XPO Logistics Inc,560,318,300,1178,1052.0,126.0,Safe,Safe,1.0
+xin,Xinyuan Real Estate Co Ltd,205,242,300,747,1052.0,-305.0,Risk,Risk,0.0
+xl,XL Fleet Corp,200,200,200,600,1052.0,-452.0,Risk,Risk,0.0
+xyf,X Financial,215,205,200,620,1052.0,-432.0,Risk,Risk,0.0
+y,Alleghany Corp,215,240,300,755,1052.0,-297.0,Risk,Risk,0.0
+yala,Yalla Group Ltd,233,244,220,697,1052.0,-355.0,Risk,Risk,0.0
+wts,Watts Water Technologies Inc,420,303,210,933,1052.0,-119.0,Risk,Risk,0.045
+sien,Sientra Inc,219,308,236,763,1052.0,-289.0,Risk,Risk,0.015
+hain,Hain Celestial Group Inc,520,302,305,1127,1052.0,75.0,Safe,Safe,1.0
+mtc,MMTEC Inc,221,225,305,751,1052.0,-301.0,Risk,Risk,0.0
+mtcr,Metacrine Inc,210,207,330,747,1052.0,-305.0,Risk,Risk,0.01
+mtem,Molecular Templates Inc,360,325,320,1005,1052.0,-47.0,Risk,Risk,0.035
+mtls,Materialise NV,505,301,300,1106,1052.0,54.0,Safe,Safe,1.0
+mtex,Mannatech Inc,200,260,230,690,1052.0,-362.0,Risk,Risk,0.0
+mtrx,Matrix Service Co,589,390,277,1256,1052.0,204.0,Safe,Safe,0.975
+halo,Halozyme Therapeutics Inc,510,302,315,1127,1052.0,75.0,Safe,Safe,1.0
+hall,Hallmark Financial Services Inc,215,233,300,748,1052.0,-304.0,Risk,Risk,0.0
+mvbf,MVB Financial Corp,210,215,215,640,1052.0,-412.0,Risk,Risk,0.0
+mvst,Microvast Holdings Inc,225,282,210,717,1052.0,-335.0,Risk,Risk,0.0
+mvis,MicroVision Inc,451,300,330,1081,1052.0,29.0,Safe,Safe,0.905
+mxct,MaxCyte Inc,220,300,248,768,1052.0,-284.0,Risk,Risk,0.0
+mygn,Myriad Genetics Inc,353,321,294,968,1052.0,-84.0,Risk,Risk,0.0
+myfw,First Western Financial Inc,351,300,235,886,1052.0,-166.0,Risk,Risk,0.0
+mxl,Maxlinear Inc,535,325,335,1195,1052.0,143.0,Safe,Safe,0.99
+mymd,MyMD Pharmaceuticals Inc,205,257,230,692,1052.0,-360.0,Risk,Risk,0.0
+myps,Playstudios Inc,205,202,200,607,1052.0,-445.0,Risk,Risk,0.0
+mttr,Matterport Inc,346,325,260,931,1052.0,-121.0,Risk,Risk,0.015
+mtsi,MACOM Technology Solutions Holdings Inc,377,309,255,941,1052.0,-111.0,Risk,Risk,0.02
+clro,Clearone Inc,370,228,210,808,1052.0,-244.0,Risk,Risk,0.0
+clsn,Celsion Corp,255,214,300,769,1052.0,-283.0,Risk,Risk,0.0
+gure,Gulf Resources Inc,408,206,300,914,1052.0,-138.0,Risk,Risk,0.0
+gvp,GSE Systems Inc,505,307,245,1057,1052.0,5.0,Safe,Safe,0.575
+gyro,Gyrodyne LLC,240,206,240,686,1052.0,-366.0,Risk,Risk,0.0
+gwrs,Global Water Resources Inc,367,297,235,899,1052.0,-153.0,Risk,Risk,0.0
+ha,Hawaiian Holdings Inc,200,321,200,721,1052.0,-331.0,Risk,Risk,0.01
+clsk,CleanSpark Inc,570,326,310,1206,1052.0,154.0,Safe,Safe,1.0
+clsd,Clearside Biomedical Inc,215,230,200,645,1052.0,-407.0,Risk,Risk,0.0
+haac,Health Assurance Acquisition Corp,200,258,300,758,1052.0,-294.0,Risk,Risk,0.0
+hafc,Hanmi Financial Corp,250,207,233,690,1052.0,-362.0,Risk,Risk,0.0
+clst,Catalyst Bancorp Inc,260,350,267,877,1052.0,-175.0,Risk,Risk,0.01
+clwt,Euro Tech Holdings Company Ltd,230,201,210,641,1052.0,-411.0,Risk,Risk,0.0
+clxt,Calyxt Inc,535,322,325,1182,1052.0,130.0,Safe,Safe,1.0
+cmbm,Cambium Networks Corp,505,337,300,1142,1052.0,90.0,Safe,Safe,1.0
+cmco,Columbus McKinnon Corp,200,323,240,763,1052.0,-289.0,Risk,Risk,0.005
+evk,Ever-Glory International Group Inc,200,211,210,621,1052.0,-431.0,Risk,Risk,0.0
+clvs,Clovis Oncology Inc,225,212,300,737,1052.0,-315.0,Risk,Risk,0.0
+clvr,Clever Leaves Holdings Inc,225,243,205,673,1052.0,-379.0,Risk,Risk,0.0
+happ,Happiness Development Group Ltd,225,207,300,732,1052.0,-320.0,Risk,Risk,0.0
+hbcp,Home Bancorp Inc,230,202,200,632,1052.0,-420.0,Risk,Risk,0.0
+hbio,Harvard Bioscience Inc,250,221,300,771,1052.0,-281.0,Risk,Risk,0.0
+hbnc,Horizon Bancorp Inc,255,321,233,809,1052.0,-243.0,Risk,Risk,0.005
+hbt,HBT Financial Inc,245,275,300,820,1052.0,-232.0,Risk,Risk,0.015
+hcat,Health Catalyst Inc,545,324,320,1189,1052.0,137.0,Safe,Safe,0.995
+hcar,Healthcare Services Acquisition Corp,245,205,300,750,1052.0,-302.0,Risk,Risk,0.0
+harp,Harpoon Therapeutics Inc,485,300,310,1095,1052.0,43.0,Safe,Safe,1.0
+hayn,Haynes International Inc,500,301,300,1101,1052.0,49.0,Safe,Safe,0.995
+pnbk,Patriot National Bancorp Inc,205,302,210,717,1052.0,-335.0,Risk,Risk,0.0
+hcdi,Harbor Custom Development Inc,222,221,208,651,1052.0,-401.0,Risk,Risk,0.0
+hcci,Heritage-Crystal Clean Inc,525,400,300,1225,1052.0,173.0,Safe,Safe,1.0
+pnfp,Pinnacle Financial Partners Inc,271,328,250,849,1052.0,-203.0,Risk,Risk,0.025
+pnt,POINT Biopharma Global Inc,320,221,285,826,1052.0,-226.0,Risk,Risk,0.0
+poai,Predictive Oncology Inc,278,297,220,795,1052.0,-257.0,Risk,Risk,0.0
+pola,Polar Power Inc,200,200,200,600,1052.0,-452.0,Risk,Risk,0.0
+podd,Insulet Corp,215,233,205,653,1052.0,-399.0,Risk,Risk,0.0
+powi,Power Integrations Inc,575,285,305,1165,1052.0,113.0,Safe,Safe,0.86
+poww,Ammo Inc,233,224,200,657,1052.0,-395.0,Risk,Risk,0.0
+pnrg,Primeenergy Resources Corp,200,200,260,660,1052.0,-392.0,Risk,Risk,0.005
+pntg,Pennant Group Inc,245,306,200,751,1052.0,-301.0,Risk,Risk,0.01
+ppbi,Pacific Premier Bancorp Inc,565,328,315,1208,1052.0,156.0,Safe,Safe,1.0
+ppih,Perma-Pipe International Holdings Inc,500,260,300,1060,1052.0,8.0,Safe,Safe,0.555
+ppc,Pilgrims Pride Corp,500,302,220,1022,1052.0,-30.0,Risk,Risk,0.045
+praa,PRA Group Inc,473,321,310,1104,1052.0,52.0,Safe,Safe,1.0
+ppsi,Pioneer Power Solutions Inc,299,305,315,919,1052.0,-133.0,Risk,Risk,0.02
+prax,Praxis Precision Medicines Inc,200,215,215,630,1052.0,-422.0,Risk,Risk,0.0
+prct,Procept Biorobotics Corp,200,224,300,724,1052.0,-328.0,Risk,Risk,0.0
+prch,Porch Group Inc,225,227,215,667,1052.0,-385.0,Risk,Risk,0.0
+pre,Artisan Acquisition Corp,245,203,265,713,1052.0,-339.0,Risk,Risk,0.0
+prdo,Perdoceo Education Corp,365,297,250,912,1052.0,-140.0,Risk,Risk,0.01
+sisi,Shineco Inc,340,346,305,991,1052.0,-61.0,Risk,Risk,0.04
+sitm,SiTime Corp,505,304,300,1109,1052.0,57.0,Safe,Safe,1.0
+siri,Sirius XM Holdings Inc,240,302,205,747,1052.0,-305.0,Risk,Risk,0.0
+sj,Scienjoy Holding Corp,260,320,240,820,1052.0,-232.0,Risk,Risk,0.025
+pow,Powered Brands,235,231,250,716,1052.0,-336.0,Risk,Risk,0.0
+powl,Powell Industries Inc,500,240,215,955,1052.0,-97.0,Risk,Risk,0.0
+upwk,Upwork Inc,275,264,278,817,1052.0,-235.0,Risk,Risk,0.015
+usak,USA Truck Inc,532,311,303,1146,1052.0,94.0,Safe,Safe,1.0
+usau,US Gold Corp,400,240,300,940,1052.0,-112.0,Risk,Risk,0.0
+usap,Universal Stainless & Alloy Products Inc,238,231,200,669,1052.0,-383.0,Risk,Risk,0.0
+useg,US Energy Corp,438,265,315,1018,1052.0,-34.0,Risk,Risk,0.245
+usio,Usio Inc,285,245,240,770,1052.0,-282.0,Risk,Risk,0.0
+uthr,United Therapeutics Corp,233,259,300,792,1052.0,-260.0,Risk,Risk,0.0
+urgn,Urogen Pharma Ltd,210,251,290,751,1052.0,-301.0,Risk,Risk,0.005
+urbn,Urban Outfitters Inc,335,300,300,935,1052.0,-117.0,Risk,Risk,0.005
+utme,Utime Ltd,217,200,200,617,1052.0,-435.0,Risk,Risk,0.0
+utrs,Minerva Surgical Inc,205,201,210,616,1052.0,-436.0,Risk,Risk,0.0
+utsi,UTStarcom Holdings Corp,340,310,365,1015,1052.0,-37.0,Risk,Risk,0.105
+uxin,Uxin Ltd,203,202,225,630,1052.0,-422.0,Risk,Risk,0.0
+uvsp,Univest Financial Corp,331,322,305,958,1052.0,-94.0,Risk,Risk,0.0
+cmcm,Cheetah Mobile Inc,205,214,215,634,1052.0,-418.0,Risk,Risk,0.0
+cmc,Commercial Metals Co,223,212,200,635,1052.0,-417.0,Risk,Risk,0.0
+uslm,United States Lime & Minerals Inc,500,233,300,1033,1052.0,-19.0,Risk,Risk,0.105
+utmd,Utah Medical Products Inc,240,236,250,726,1052.0,-326.0,Risk,Risk,0.0
+cmp,Compass Minerals International Inc,505,302,320,1127,1052.0,75.0,Safe,Safe,1.0
+cnd,Concord Acquisition Corp,205,257,300,762,1052.0,-290.0,Risk,Risk,0.0
+cnf,CNFinance Holdings Ltd,200,200,220,620,1052.0,-432.0,Risk,Risk,0.0
+cnmd,Conmed Corp,441,300,270,1011,1052.0,-41.0,Risk,Risk,0.17
+cnk,Cinemark Holdings Inc,330,300,300,930,1052.0,-122.0,Risk,Risk,0.005
+cnne,Cannae Holdings Inc,215,203,203,621,1052.0,-431.0,Risk,Risk,0.0
+cno,CNO Financial Group Inc,500,322,315,1137,1052.0,85.0,Safe,Safe,1.0
+cna,CNA Financial Corp,540,329,340,1209,1052.0,157.0,Safe,Safe,1.0
+cmre,Costamare Inc,242,204,200,646,1052.0,-406.0,Risk,Risk,0.0
+gva,Granite Construction Inc,200,200,200,600,1052.0,-452.0,Risk,Risk,0.0
+fn,Fabrinet,510,209,210,929,1052.0,-123.0,Risk,Risk,0.005
+h,Hyatt Hotels Corp,235,209,205,649,1052.0,-403.0,Risk,Risk,0.0
+hasi,Hannon Armstrong Sustainable Infrastructure Capital Inc,646,404,313,1363,1052.0,311.0,Safe,Safe,1.0
+hayw,Hayward Holdings Inc,535,305,300,1140,1052.0,88.0,Safe,Safe,1.0
+hbb,Hamilton Beach Brands Holding Co,245,272,230,747,1052.0,-305.0,Risk,Risk,0.025
+hcc,Warrior Met Coal Inc,215,200,200,615,1052.0,-437.0,Risk,Risk,0.0
+hci,Hci Group Inc,205,260,300,765,1052.0,-287.0,Risk,Risk,0.0
+he,Hawaiian Electric Industries Inc,585,348,310,1243,1052.0,191.0,Safe,Safe,1.0
+gwre,Guidewire Software Inc,549,321,330,1200,1052.0,148.0,Safe,Safe,0.995
+hae,Haemonetics Corp,448,303,305,1056,1052.0,4.0,Safe,Safe,0.89
+hep,Holly Energy Partners LP,511,225,215,951,1052.0,-101.0,Risk,Risk,0.005
+hgv,Hilton Grand Vacations Inc,305,288,250,843,1052.0,-209.0,Risk,Risk,0.0
+hi,Hillenbrand Inc,489,349,300,1138,1052.0,86.0,Safe,Safe,0.995
+hhc,Howard Hughes Corp,500,300,300,1100,1052.0,48.0,Safe,Safe,1.0
+hubs,HubSpot Inc,480,329,320,1129,1052.0,77.0,Safe,Safe,1.0
+hesm,Hess Midstream LP,307,257,255,819,1052.0,-233.0,Risk,Risk,0.0
+hei,HEICO Corp,225,203,205,633,1052.0,-419.0,Risk,Risk,0.0

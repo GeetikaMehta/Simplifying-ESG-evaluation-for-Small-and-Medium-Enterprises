@@ -1,0 +1,87 @@
+{
+  "dataset_key": "data",
+  "source_path": "C:\\Users\\Dell\\Documents\\ESG_Gap_Evaluation\\data.csv",
+  "total_column": "total_score",
+  "n_rows": 722,
+  "n_missing_numeric": {
+    "environment_score": 0,
+    "social_score": 0,
+    "governance_score": 0,
+    "total_score": 0
+  },
+  "describe": {
+    "environment_score": {
+      "count": 722.0,
+      "mean": 404.80609418282546,
+      "std": 145.1038695031215,
+      "min": 200.0,
+      "25%": 240.0,
+      "50%": 483.0,
+      "75%": 518.75,
+      "max": 719.0
+    },
+    "social_score": {
+      "count": 722.0,
+      "mean": 292.1828254847645,
+      "std": 57.017405754697876,
+      "min": 160.0,
+      "25%": 243.0,
+      "50%": 302.0,
+      "75%": 322.75,
+      "max": 667.0
+    },
+    "governance_score": {
+      "count": 722.0,
+      "mean": 278.7617728531856,
+      "std": 47.031535808585005,
+      "min": 75.0,
+      "25%": 235.0,
+      "50%": 300.0,
+      "75%": 310.0,
+      "max": 475.0
+    },
+    "total_score": {
+      "count": 722.0,
+      "mean": 975.7506925207756,
+      "std": 218.7517961080334,
+      "min": 600.0,
+      "25%": 763.0,
+      "50%": 1046.0,
+      "75%": 1144.0,
+      "max": 1536.0
+    }
+  },
+  "correlation_matrix": {
+    "environment_score": {
+      "environment_score": 1.0,
+      "social_score": 0.6718,
+      "governance_score": 0.5587,
+      "total_score": 0.9586
+    },
+    "social_score": {
+      "environment_score": 0.6718,
+      "social_score": 1.0,
+      "governance_score": 0.4834,
+      "total_score": 0.8102
+    },
+    "governance_score": {
+      "environment_score": 0.5587,
+      "social_score": 0.4834,
+      "governance_score": 1.0,
+      "total_score": 0.7116
+    },
+    "total_score": {
+      "environment_score": 0.9586,
+      "social_score": 0.8102,
+      "governance_score": 0.7116,
+      "total_score": 1.0
+    }
+  },
+  "total_score_iqr_outlier_bounds": {
+    "low": 191.5,
+    "high": 1715.5
+  },
+  "n_outliers_total_iqr": 0,
+  "sample_outliers": [],
+  "n_distinct_industries": 47
+}

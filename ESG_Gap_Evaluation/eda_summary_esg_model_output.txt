@@ -1,0 +1,16 @@
+ESG EDA summary — esg_model_output
+==================================================
+Source: C:\Users\Dell\Documents\ESG_Gap_Evaluation\esg_model_output.csv
+Total column: esg_score
+Rows: 722
+Missing: {'environment_score': 0, 'social_score': 0, 'governance_score': 0, 'esg_score': 0}
+
+Correlation:
+  environment_score: {'environment_score': 1.0, 'social_score': 0.6718, 'governance_score': 0.5587, 'esg_score': 0.9586}
+  social_score: {'environment_score': 0.6718, 'social_score': 1.0, 'governance_score': 0.4834, 'esg_score': 0.8102}
+  governance_score: {'environment_score': 0.5587, 'social_score': 0.4834, 'governance_score': 1.0, 'esg_score': 0.7116}
+  esg_score: {'environment_score': 0.9586, 'social_score': 0.8102, 'governance_score': 0.7116, 'esg_score': 1.0}
+
+IQR bounds (esg_score): {'low': 191.5, 'high': 1715.5}
+Outliers (IQR): 0
+Distinct industries: None
